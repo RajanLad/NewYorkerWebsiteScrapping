@@ -43,6 +43,10 @@ Info we write in files are
 >Contributor's Bio
 >Contributor's written articles count
 
+** Eg. **
+ 
+**https://github.com/RajanLad/NewYorkerWebsiteScrapping/blob/master/NewYorkerReport.pdf**
+**https://github.com/RajanLad/NewYorkerWebsiteScrapping/blob/master/data.json**
 
 
 Sources : [1] https://en.wikipedia.org/wiki/The_New_Yorker
