@@ -46,6 +46,7 @@ Info we write in files are
 ** Eg. **
  
 **https://github.com/RajanLad/NewYorkerWebsiteScrapping/blob/master/NewYorkerReport.pdf**
+
 **https://github.com/RajanLad/NewYorkerWebsiteScrapping/blob/master/data.json**
 
 
