@@ -2,6 +2,7 @@
 This is first official python project to scrap contributors of NewYorker magazine and their relevent information.
 
 **Libraries** : urllib.request, BeautifulSoup, re, unidecode, reportlab.platypus, reportlab.lib.styles, json
+
 **Primary file to execute** : parse.py
 
 **Website Used to Scrap** : New Yorker
